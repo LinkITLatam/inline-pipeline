@@ -1,1 +1,1 @@
-# missing-jenkins-file
+# Inline Pipeline
